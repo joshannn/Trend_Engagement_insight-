@@ -1,4 +1,4 @@
-# Fashion Intelligence Engine
+## Engagement Analyzer on The Basis of Outfits
 
 A Python-based pipeline designed to transform raw Instagram data into structured fashion insights using computer vision and social media analytics.
 
